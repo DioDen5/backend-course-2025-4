@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/DioDen5/backend-course-2025-4/issues"
   },
-  "homepage": "https://github.com/DioDen5/backend-course-2025-4#readme"
+  "homepage": "https://github.com/DioDen5/backend-course-2025-4#readme",
+  "dependencies": {
+    "commander": "^14.0.3"
+  }
 }
